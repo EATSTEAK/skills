@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "use-uv": {
+      "source": "EATSTEAK/skills",
+      "sourceType": "github",
+      "computedHash": "6534bbf09756f6ea48572af07568a287fb4a769f348c7a7e5b7e1dc4938a3981"
+    }
+  }
+}
