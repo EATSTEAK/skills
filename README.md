@@ -29,3 +29,9 @@ Path: `skills/research-first/SKILL.md`
 Always use uv for Python work. Use when Python code, dependencies, virtual environments, scripts, or Python CLI tools are involved.
 
 Path: `skills/use-uv/SKILL.md`
+
+### orchestrator
+
+Orchestrate a multi-stage refactor or migration by creating a fresh team per stage, running one implementation subagent and one validation subagent, then cleaning up before the next stage.
+
+Path: `skills/orchestrator/SKILL.md`
