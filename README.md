@@ -71,3 +71,9 @@ Path: `skills/rearrange/SKILL.md`
 Convert PDF files to Markdown while preserving content accuracy and document structure.
 
 Path: `skills/pdftomd/SKILL.md`
+
+### superlearn
+
+Run adaptive active-recall study sessions from Markdown course notes.
+
+Path: `skills/superlearn/SKILL.md`
