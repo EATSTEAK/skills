@@ -77,3 +77,9 @@ Path: `skills/pdftomd/SKILL.md`
 Run adaptive active-recall study sessions from Markdown course notes.
 
 Path: `skills/superlearn/SKILL.md`
+
+### youtube-summarizer
+
+Extract YouTube transcripts and generate detailed Korean summaries from video URLs.
+
+Path: `skills/youtube-summarizer/SKILL.md`
