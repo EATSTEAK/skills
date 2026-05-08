@@ -30,6 +30,12 @@ Always use uv for Python work. Use when Python code, dependencies, virtual envir
 
 Path: `skills/use-uv/SKILL.md`
 
+### use-pnpm
+
+Always use pnpm/pnpx for Node.js work unless the project packageManager field specifies another package manager. Use when Node.js, JavaScript, TypeScript, npm scripts, package installation, or Node CLI tools are involved.
+
+Path: `skills/use-pnpm/SKILL.md`
+
 ### orchestrator
 
 Orchestrate a multi-stage refactor or migration by creating a fresh team per stage, running one implementation subagent and one validation subagent, then cleaning up before the next stage.
